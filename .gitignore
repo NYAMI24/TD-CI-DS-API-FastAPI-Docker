@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Cache pytest
+.pytest_cache/
